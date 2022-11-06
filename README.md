@@ -1,2 +1,2 @@
-# -lk-Web-Sayfam-z-Olu-turmak
+# İlk Web Sayfamızı Oluşturmak
 Başlangıç Seviye Frontend Web Development Patikası
